@@ -149,7 +149,7 @@ Install these before running the project:
 ### 1. Clone or download the repository
 Using Git:
 bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+git clone https://github.com/waleedkhattakjj-glitch/My-Projects
 cd https://github.com/waleedkhattakjj-glitch/My-Projects
 Or, on GitHub, select Code → Download ZIP, extract the ZIP file, and open the extracted project folder in your terminal or VS Code.
 
