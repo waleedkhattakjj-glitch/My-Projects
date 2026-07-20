@@ -147,15 +147,13 @@ Install these before running the project:
 ## Installation Guide
 
 ### 1. Clone or download the repository
-
 Using Git:
-
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
 cd https://github.com/waleedkhattakjj-glitch/My-Projects
 Or, on GitHub, select Code → Download ZIP, extract the ZIP file, and open the extracted project folder in your terminal or VS Code.
 
-### 2. Create a virtual environment
+**### 2. Create a virtual environment**
 Windows (PowerShell):
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
