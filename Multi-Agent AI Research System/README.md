@@ -142,6 +142,6 @@ __pycache__/
 .streamlit/secrets.toml
 ```
 
-## License
+## Waleed Khattak
 
-This project is available for educational and personal use.
+
