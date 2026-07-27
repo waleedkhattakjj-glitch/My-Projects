@@ -1,0 +1,28 @@
+# MeetMind AI Python dependencies
+
+# Web interface
+streamlit
+
+# Environment variables
+python-dotenv
+
+# YouTube/audio processing
+yt-dlp
+pydub
+
+# Google Gemini API
+google-genai
+langchain-google-genai
+
+# LangChain core packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+
+# Vector database
+chromadb
+
+# Optional but useful for compatibility
+protobuf
